@@ -1,0 +1,8 @@
+CREATE DATABASE rh;
+USE rh;
+
+CREATE TABLE bdRH(
+idFuncionario INT NOT NULL
+nome VARCHAR(250)
+salario INT NOT NULL
+)
