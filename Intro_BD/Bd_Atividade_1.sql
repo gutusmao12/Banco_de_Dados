@@ -10,7 +10,7 @@ UNIQUE (idFuncionario),
 PRIMARY KEY (idFuncionario)
 );
 
-INSERT INTO db_rh.tb_rh (idFuncionario, nome, funcional, dataInicio, salario)
+INSERT INTO db_rh.tb_rh (idFuncionario, nome, funcional, salario)
 VALUES
 ('1', 'Gustavo', 11089616, 1800),
 ('2', 'Matheus', 11089617, 2600),
